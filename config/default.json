@@ -1,0 +1,5 @@
+{
+"port": "5000",
+"mongoUri": "mongodb+srv://Levon:24112001@cluster0.ipavt.mongodb.net/Fullstack_app?retryWrites=true&w=majority",
+"jwtkey":"mykey"
+}
